@@ -1,0 +1,36 @@
+<?php
+//Viet ham tinh chu vi hcn, truyen vao $a, $b. tra lai chu vi
+function chuvihcn ($a,$b) {
+	if ($a > 0 and $b > 0) {
+		echo "chu vi hcn la: ".($a+$b)*2;
+	}
+	else {echo 'error'; }
+}
+chuvihcn(5,5);
+//Viet chuong trinh ham giai phuong trinh bac nhat
+
+function ptbacnhat ($c, $d) { 
+	if ($c <> 0) {
+		echo "ptrinh co dang: $c".'x'.'+'.$d."=0";
+		echo 'ket qua la: x= '.-$d/$c;
+	}
+	else {echo 'luon dung'; }
+}
+ptbacnhat(-2,3);
+
+//Viet chuong trinh ham giai phuong trinh bac hai
+function ptbachai ($z,$d, $e) { 
+	if ($z == 0) {
+		echo "ptrinh co dang: $d".'x'.'+'.$e."=0";
+		echo 'ket qua la: x= '.-$d/$e;
+	}
+	else {
+		if (($d**2-4*$z*$e) > 0) {
+			echo 'pt co 2no pb';
+		}
+		elseif ($)
+	}
+}
+ptbachai(0,-2,3);
+
+?>
