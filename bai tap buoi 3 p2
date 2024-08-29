@@ -1,0 +1,9 @@
+<?php	
+$array = ['nguyen van A', 'nguyen van B', 'nguyen van C', 'nguyen van D'];
+$b = rand(1,count($array)-1);
+for ($i = 0; $i <=count($array); $i++) {
+if ( $b==$i) {
+	echo "sinh vien $i :".$array[$i-1];
+	break;
+} }
+?>
