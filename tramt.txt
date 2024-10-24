@@ -1,0 +1,11 @@
+Danh sách các khóa học:
+ID: 0
+Title: anh1
+Description: anhdep1
+Image URL: https://images2.thanhnien.vn/528068263637045248/2024/1/25/e093e9cfc9027d6a142358d24d2ee350-65a11ac2af785880-17061562929701875684912.jpg
+
+ID: 1
+Title: anh2
+Description: anhdep2
+Image URL: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRCaKyuiPsuhnH0nk2dI_8EwbaaH624wJfKQ&s
+
